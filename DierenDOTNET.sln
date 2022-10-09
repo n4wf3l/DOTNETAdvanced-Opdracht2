@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DierenDOTNET", "DierenDOTNET\DierenDOTNET.csproj", "{CB68EEEB-A224-4B17-8350-6ECFF68ADC30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening3", "Oefening3\Oefening3.csproj", "{7775761F-A5C1-4EBF-AED9-317F894B2314}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CB68EEEB-A224-4B17-8350-6ECFF68ADC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB68EEEB-A224-4B17-8350-6ECFF68ADC30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB68EEEB-A224-4B17-8350-6ECFF68ADC30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7775761F-A5C1-4EBF-AED9-317F894B2314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7775761F-A5C1-4EBF-AED9-317F894B2314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7775761F-A5C1-4EBF-AED9-317F894B2314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7775761F-A5C1-4EBF-AED9-317F894B2314}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
