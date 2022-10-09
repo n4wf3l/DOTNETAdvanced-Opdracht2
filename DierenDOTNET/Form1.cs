@@ -31,12 +31,12 @@ namespace DierenDOTNET
                 MessageBox.Show(koe.ToString());
 
             }
-            if (checkBox2.Checked)
+            if (checkBox3.Checked)
             {
                 MessageBox.Show(slang.ToString());
             }
 
-            if (checkBox3.Checked)
+            if (checkBox2.Checked)
             {
                 MessageBox.Show(varken.ToString());
             }

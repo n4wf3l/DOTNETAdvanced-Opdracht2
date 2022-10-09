@@ -16,7 +16,7 @@ namespace Dieren
         }
         public string Roor()
         {
-            VarkensoundPlayer = new SoundPlayer(@"C:\Users\ajari\source\repos\DierenDOTNET\DierenDOTNET\obj\koegeluid.wav");
+            VarkensoundPlayer = new SoundPlayer(@"C:\Users\ajari\source\repos\DierenDOTNET\DierenDOTNET\obj\varkengeluid.wav");
             VarkensoundPlayer.Play();
             return base.Zegt("rooor");
         }
